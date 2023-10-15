@@ -1,5 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Harish Thangaraj</h1>
+![Header](./github-header-image(1).png)
+<h1 align="center">This is Harish Thangaraj</h1>
 <h3 align="center">a to-be computer science graduate. I aspire to be a data scientist and implement AI technology to enhance trade and commerce. Feel free to dig into my work.</h3>
 
 - 👨‍💻 Portfolio website : [https://harish-thangaraj.netlify.app/](https://harish-thangaraj.netlify.app/)
