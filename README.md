@@ -1,6 +1,6 @@
 ![Header](./header.png)
 <h1 align="center">This is Harish Thangaraj</h1>
-<h3 align="center"> infiltrating into the developers community to explore the infinite loops of life and studying the data science cohort to enhance trade and commerce, one commit at a time. </h3>
+<h3 align="center"> infiltrating into the developers community to explore the infinite loops of life and studying the AI cohort to enhance trade and commerce, one commit at a time. </h3>
 
 <br>
 
