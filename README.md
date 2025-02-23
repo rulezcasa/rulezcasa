@@ -9,7 +9,7 @@
 
 - 📝 Blog : [https://econohub.wixsite.com/my-site](https://econohub.wixsite.com/my-site)
 
-- 👨🏻‍💻 Linkedin : [https://www.linkedin.com/in/harish-thangaraj-37a849219/](https://www.linkedin.com/in/harish-thangaraj-37a849219/) 
+- 👨🏻‍💻 Linkedin : [https://www.linkedin.com/in/rulezcasa/](https://www.linkedin.com/in/rulezcasa/) 
 
 <br>
 
