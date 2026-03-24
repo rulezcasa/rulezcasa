@@ -1,6 +1,6 @@
 ![Header](./header.png)
 <h1 align="center">This is Harish Thangaraj</h1>
-<h3 align="center"> I do research and development. </h3>
+<h3 align="center"> AI/ML researcher and developer. </h3>
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-A Computer Science undergraduate focused on AI/ML research. I work on NLP, Computer Vision and Reinforcement Learning paradigms and I am looking to collaborate with leading labs in these domains. Apart from R&D, I am building a startup - Travellio (Vialux Nomadic Travellio Solutions Pvt. Ltd).
+A Computer Science major focused on AI/ML research. I work on NLP, Computer Vision and Reinforcement Learning paradigms. I'm am building collabaid.in (A cool networking startup)
 
 
 
