@@ -10,7 +10,7 @@
 
 <br>
 
-A Computer Science major focused on AI/ML research. I work on NLP, Computer Vision and Reinforcement Learning paradigms. I'm am building collabaid.in (A cool networking startup)
+A Computer Science major focused on AI/ML research. I work on NLP, Computer Vision and Reinforcement Learning paradigms. I'm also building collabaid.in (A cool networking startup).
 
 
 
