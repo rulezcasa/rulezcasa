@@ -10,7 +10,7 @@
 
 <br>
 
-A Computer Science major and I work on Agents, NLP and RL paradigms. I'm also building collabaid.in and operon.co.in
+I work on Agentic automation, Low resource NLP and deep RL paradigms. I'm also building collabaid.in and operon.co.in
 
 
 
