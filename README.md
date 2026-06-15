@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://www.linkedin.com/in/rulezcasa/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://medium.com/@harish.thangaraj2021)">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="https://medium.com/@casarulez">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="https://scholar.google.com/citations?user=u7DBwWwAAAAJ&hl=en">![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)</a>
 
 <br>
