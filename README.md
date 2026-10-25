@@ -1,6 +1,6 @@
 ![Header](./header.png)
 <h1 align="center">This is Harish Thangaraj</h1>
-<h3 align="center"> AI/ML Engineer </h3>
+<h3 align="center"> Applied AI Engineer </h3>
 
 <br>
 
